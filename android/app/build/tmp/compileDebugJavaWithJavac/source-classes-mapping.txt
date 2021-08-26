@@ -1,0 +1,14 @@
+com/mocha_testing/BuildConfig.java
+ com.mocha_testing.BuildConfig
+com/mocha_testing/ReactNativeFlipper.java
+ com.mocha_testing.ReactNativeFlipper
+ com.mocha_testing.ReactNativeFlipper$1
+ com.mocha_testing.ReactNativeFlipper$2
+ com.mocha_testing.ReactNativeFlipper$2$1
+com/mocha_testing/MainActivity.java
+ com.mocha_testing.MainActivity
+com/mocha_testing/MainApplication.java
+ com.mocha_testing.MainApplication
+ com.mocha_testing.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
